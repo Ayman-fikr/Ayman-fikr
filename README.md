@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Ayman Mohammed 
 
-<!--
-**Ayman-fikr/Ayman-fikr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Future Cybersecurity Specialist | IT Student
+---
 
-Here are some ideas to get you started:
+### 🎓 Education
+* **Current:** Information Technology Degree (Medan, Indonesia).
+* **Timeline:** 2025 - 2029.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛡️ Career Vision
+* Building a professional career in **Cybersecurity** to serve the Gulf region and support my family.
+
+### 💻 Tech Stack
+* **Language:** Python 🐍
+* **Focus:** Network Security & IT Infrastructure.
+
+### 📂 Projects
+* [AgeCalculator](https://github.com/aymanqqqr788-sys/AgeCalculator) - My first Python project.
